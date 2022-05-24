@@ -1,3 +1,0 @@
-deepxde
-numpy
-scipy
